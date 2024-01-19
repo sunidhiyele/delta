@@ -1,2 +1,2 @@
 # delta
-delta demo
+delta demo.
